@@ -1,0 +1,64 @@
+
+body {
+    background:url("./imgs/videogame.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    background-attachment: fixed;
+}
+
+div{
+    text-align: center;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.4em;
+    color:#0f9349;
+    margin-bottom: 50px;
+    text-shadow: 1px 2px 0px black;
+}
+
+h5 {
+    display: block;
+    text-align: center;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.4em;
+    margin: 30px;
+    color: rgb(6 90 6);
+}
+
+h1{
+    text-align: center;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(6 90 6);
+    border: 2px solid rgb(6 90 6);
+    border-radius: 8px;
+    max-width: 250px;
+    margin:50px auto 20px auto;
+}
+
+button{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3em;
+    border-radius: 8px;
+    border: 2px solid rgb(6 90 6);
+    background: linear-gradient(#e3f9e3, #60b760);
+}
+
+.medal{
+    font-size: 2.5em;
+    text-align: center;
+    margin: 0 auto;
+}
